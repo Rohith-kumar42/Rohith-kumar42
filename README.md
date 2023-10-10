@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohith kumar B
 - 👀 I’m interested in  Full Stack Development
 - 🌱 I’m currently learning HTMl,CSS,JavaScript
-- 📫 How to reach me rohithkumarcbaalraj@gmai.com
+- 📫 How to reach me rohithkumarcbaalraj@gmail.com
 
 <!---
 Rohith-kumar42/Rohith-kumar42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
