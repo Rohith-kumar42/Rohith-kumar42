@@ -29,10 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-kumar42&" alt="rohith-kumar42" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohithkumar42&show_icons=true&locale=en&layout=compact" alt="Rohithkumar42" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohithkumar42&show_icons=true&locale=en" alt="Rohithkumar42y" /></p>
-
 
 <!---
 Rohith-kumar42/Rohith-kumar42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
