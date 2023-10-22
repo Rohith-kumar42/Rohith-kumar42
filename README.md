@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Rohith kumar B
-- 👀 I’m interested in  Full Stack Development
-- 🌱 I’m currently learning HTMl,CSS,JavaScript
-- 📫 How to reach me rohithkumarcbaalraj@gmail.com
+
 <h1 align="center">Hi 👋, I'm Rohith Kumar B</h1>
 <h3 align="center">👀 I’m interested in  Full Stack Development</h3>
 
