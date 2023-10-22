@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohithkumar42&show_icons=true&locale=en" alt="Rohithkumar42y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkumar42y&" alt="Rohithkumar42" /></p>
+
 <!---
 Rohith-kumar42/Rohith-kumar42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
